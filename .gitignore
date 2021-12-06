@@ -1,0 +1,10 @@
+*.swp
+*.rds
+.ipynb_checkpoints
+*_cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
