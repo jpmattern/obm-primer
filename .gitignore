@@ -8,3 +8,5 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# matlab code generated for function definitions
+*.m
