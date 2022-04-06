@@ -13,7 +13,7 @@ Five notebooks are currently available:
 Instead of cloning this repository or downloading the code, the notebooks can be run online using [binder](https://mybinder.org/).
 Just follow this [link](https://mybinder.org/v2/gh/jpmattern/obm-primer/HEAD). 
 
-## If you ...
+## Where to start? If you ...
 
 ### only have a few minutes
 
