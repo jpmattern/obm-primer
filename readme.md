@@ -8,12 +8,15 @@ Five notebooks are currently available:
  * The [evolutionary algorithm parameter estimation notebook](parameter_estimation_de.ipynb) introduces a different parameter estimation technique. It is based on a differential evolution evolutionary algorithm.
  * The [MATLAB version](state_estimation_enkf_matlab.ipynb) of the state estimation notebookis a prototype copy of an earlier Python version and may be updated once development is complete.
 
-# Running the notebooks online
+## Running the notebooks online
 
 Instead of cloning this repository or downloading the code, the notebooks can be run online using [binder](https://mybinder.org/).
 Just follow this [link](https://mybinder.org/v2/gh/jpmattern/obm-primer/HEAD).
 
-# Feedback
+## Feedback
 
 Feel free use GitHub's issues feature (link above) to provide feedback.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
