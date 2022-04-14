@@ -4,7 +4,7 @@ Five notebooks are currently available:
 
  * For a brief introduction to the NPZD model see [this notebook](npzd.ipynb).
  * The [EnKF parameter estimation notebook](parameter_estimation_enkf.ipynb) is the most developed, it allows the user to change the parameter estimation setup, the observations, or the EnKF configuration. It further contains a few preconfigured scenarios that highlight parameter optimization-related issues such as parameter interdependence or underdetermined parameters.
- * The [EnKF state estimation notebook](state_estimation_enkf.ipynb) focuses on state estimation but is otherwise very similar to the EnKF parameter estimation notebook. It contains no predefined scenarios. There is a [MATLAB version](state_estimation_enkf_matlab.ipynb) available for this notebook which does not run online, but otherwise provides the same functionality as its Python equivalent.
+ * The [EnKF state estimation notebook](state_estimation_enkf.ipynb) focuses on state estimation but is otherwise very similar to the EnKF parameter estimation notebook. It contains no predefined scenarios. There is a [Matlab version](state_estimation_enkf_matlab.ipynb) available for this notebook which does not run online, but otherwise provides the same functionality as its Python equivalent.
  * The [evolutionary algorithm parameter estimation notebook](parameter_estimation_de.ipynb) introduces a different parameter estimation technique. It is based on a differential evolution evolutionary algorithm.
 
 ## Running the notebooks online
