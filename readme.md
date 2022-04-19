@@ -1,4 +1,4 @@
-# Notebooks for visualizing parameter and state estimation using a NPZD ocean biological model
+# Visualizing parameter and state estimation for a zero-dimensional ocean biological model
 
 Five notebooks are currently available:
 
