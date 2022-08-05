@@ -37,7 +37,7 @@ Just follow this [link](https://mybinder.org/v2/gh/jpmattern/obm-primer/HEAD).
 
 ## Feedback
 
-Feel free use GitHub's issues feature (link above) to provide feedback.
+Feel free use GitHub's discussions feature (link above) to provide feedback, or open an issue to report problems.
 
 ## License
 
