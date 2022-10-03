@@ -1,5 +1,7 @@
 # Visualizing parameter and state estimation for a zero-dimensional ocean biological model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6968374.svg)](https://doi.org/10.5281/zenodo.6968374)
+
 Five notebooks are currently available:
 
  * For a brief introduction to the NPZD model see [this notebook](npzd.ipynb).
